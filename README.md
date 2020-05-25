@@ -1,5 +1,5 @@
 - [**English**](#English)
-- [**Portugues**](#Portugues)
+- [**Português**](#Português)
 
 # English
 ---
@@ -441,7 +441,7 @@ For the react application I only did part of the get method, to execute the post
 
 <img src='./image/fig002.gif' />
 
-# Portugues
+# Português
 ---
 
 # Do que se trata esse repositório
