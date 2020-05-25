@@ -17,7 +17,7 @@ export default {
     const emailService = new EmailService();
     emailService.sendMail( {
       to: {
-        name: 'diego',
+        name: 'lucas',
         email: 'lucas@gmail.com.br'
       },
       message: {
